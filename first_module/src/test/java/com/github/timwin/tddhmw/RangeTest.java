@@ -1,8 +1,7 @@
-package com.github.vlshat.tddhmw;
+package com.github.timwin.tddhmw;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.jupiter.api.BeforeEach;
 
 import java.security.InvalidParameterException;
 import java.util.ArrayList;

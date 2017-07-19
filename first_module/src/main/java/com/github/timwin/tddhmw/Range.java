@@ -1,4 +1,4 @@
-package com.github.vlshat.tddhmw;
+package com.github.timwin.tddhmw;
 
 import java.util.Iterator;
 import java.util.List;

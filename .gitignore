@@ -41,3 +41,8 @@ Thumbs.db
 /**/*.iml
 /**/target/
 /**/*.unit04result
+gradle*
+/**/gradle/
+/**/.gradle/
+.gitignore
+/**/first_module/build

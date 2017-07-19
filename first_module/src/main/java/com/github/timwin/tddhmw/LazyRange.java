@@ -1,4 +1,4 @@
-package com.github.vlshat.tddhmw;
+package com.github.timwin.tddhmw;
 
 import java.security.InvalidParameterException;
 import java.util.ArrayList;
